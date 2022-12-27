@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/fkmiec/tiddlywebadapter-browser-storage-sync",
+	"description": "Sync tiddlers from browser-storage to tiddlyweb server after server connection is restored. Works across browser restart or reloading the wiki from the server.",
+	"author": "Frank Kmiec",
+	"version": "0.0.1",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/fkmiec/tiddlywiki-plugin-tiddlywebadapter-browser-storage-sync.git",
+	"plugin-type": "plugin"
+}
