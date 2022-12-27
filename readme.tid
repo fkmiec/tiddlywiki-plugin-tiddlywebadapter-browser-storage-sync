@@ -1,0 +1,9 @@
+created: 20221227204337349
+modified: 20221227211037419
+tags:
+title: $:/plugins/fkmiec/tiddlywebadaptor-browser-storage-sync/readme
+type: text/vnd.tiddlywiki
+
+!! ~TiddlyWebAdaptor Browser Storage Sync Plugin
+
+A plugin for Tiddlywiki that syncs tiddlers stored locally by the browser-storage plugin while offline with a ~TiddlyWeb server, including the Tiddlywiki NodeJS server, when server connection is restored. Using the browser-storage plugin enables syncing local changes even if browser is restarted.
