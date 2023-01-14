@@ -8,5 +8,5 @@
 	"dependencies": "tiddlywebadaptor browser-storage",
 	"source": "https://github.com/fkmiec/tiddlywiki-plugin-tiddlywebadapter-browser-storage-sync.git",
 	"plugin-type": "plugin",
-	"list": "readme license"
+	"list": "readme settings license"
 }
